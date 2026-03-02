@@ -27,7 +27,9 @@ Crear la base de datos:
 
 CREATE DATABASE mini-wallet-db;
 
-Luego ejecutar el script SQL del esquema (tablas, restricciones, funciones).
+Luego ejecutar el script SQL del esquema (tablas, restricciones, funciones, test data).
+El esquema está en la carpeta /server.
+
 ## Configuración del Backend
 1️⃣ Entrar a la carpeta del servidor
 cd server
