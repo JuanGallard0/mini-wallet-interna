@@ -43,11 +43,11 @@ npm install
 PORT=3000
 
 // Ejemplo DB:
-DB_HOST=localhost
-DB_PORT=5432
-DB_USER=postgres
-DB_PASSWORD=pass
-DB_NAME=mini-wallet-db
+*DB_HOST=localhost
+*DB_PORT=5432
+*DB_USER=postgres
+*DB_PASSWORD=pass
+*DB_NAME=mini-wallet-db
 
 ⚠️ Cambia las credenciales según tu configuración local.
 
